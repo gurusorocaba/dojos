@@ -36,8 +36,7 @@ class Celular
   def self.traduz(text)
     return "" if text.nil?
 
-    result = ""
-    text.upcase.split("").each do |letter|
+    text.upcase.split("").inject("") do |result, letter| 
       number = (MAP[letter]||'')
 
       if !result[-1].nil? && (result[-1] == number[0]) 
@@ -46,7 +45,5 @@ class Celular
 
       result += number
     end
-
-    result 
   end
 end

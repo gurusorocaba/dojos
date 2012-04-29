@@ -1,5 +1,8 @@
-positivos =)
+# Retrospectiva
+Dojo realizado dia 28/04/2012
 
+## Pontos Positivos =)
+ 
 - resolveu o problema
 - não parou na implementação mais simples
 - quase todo mundo participou
@@ -8,7 +11,7 @@ positivos =)
 - ter uma idéia bem legal sobre a importancia dos testes (TDD)
 
 
-negativos =(
+## Pontos Negativos =(
 
 - já trazer a estrutura pronta (dos testes)
 - não commitamos
@@ -17,23 +20,23 @@ negativos =(
 - faltou um refactoring melhor para separar as responsabilidades
 - não se fechar tanto com o par
 
-participantes
+## Participantes (na ordem de rotatividade)
 
-  tiago godinho
-  guilherme vinicius
-  hugo nomura
-  alexandre eher
-  joel vieira
-  renato elias
-  andré mitsuoka
-  lucas renan
-  lucio seki
-  cassia catherine
-  viviane bonadia
-  mauricio santos
-  thais mizuno
-  jefferson campos
-  lucas marques
-  felipe moraes
-  paulo gonçalves
-  matheus marques
+- Tiago Godinho (@tiagogodinho)
+- Guilherme Vinicius (@guivinicius)
+- Hugo Nomura
+- Alexandre Eher (@eher)
+- Joel Vieira
+- Renato Elias (@renatoelias)
+- André Mitsuoka
+- Lucas Renan (@lucasrenan)
+- Lucio Seki 
+- Cássia Catherine (@Kssi4)
+- Viviane Bonadia
+- Mauricio Santos
+- Thais Mizuno (@ThaisMizuno)
+- Jefferson Campos
+- Lucas Marques
+- Felipe Moraes
+- Paulo Gonçalves
+- Matheus Marques
